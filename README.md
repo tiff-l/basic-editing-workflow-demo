@@ -7,6 +7,11 @@ This is body text under the first **header**
 ## Header 2
 This is body text under the *second header*
 ### Header 3
+This is a list 
+* item 1
+* item 2 
+* item 3
+
 #### Header 4
 ##### Header 5
 ###### Header 6
