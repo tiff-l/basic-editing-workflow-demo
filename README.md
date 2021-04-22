@@ -8,9 +8,12 @@ This is body text under the first **header**
 This is body text under the *second header*
 ### Header 3
 This is a list 
-* item 1
-* item 2 
-* item 3
+* Item 1
+* Item 2 
+* Item 3
+* Item 4
+* Item 5
+* Item 6
 
 #### Header 4
 This is a change in github
@@ -26,11 +29,3 @@ println(name)
 if name =="Tiff"; 
   print("*****")
 ```
-
-
-
-
-
-
-
-
